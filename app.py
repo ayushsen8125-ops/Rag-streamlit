@@ -28,7 +28,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 PDF_FILENAME = "Amazon_Returns_and_Refunds_Policy_Seller_fulfilled_orders.pdf"
-EMBED_MODEL  = "models/embedding-001"
+EMBED_MODEL  = "models/embedding-004"
 GEN_MODEL    = "gemini-1.5-flash"
 CHUNK_SIZE   = 1000
 CHUNK_OVERLAP = 200
